@@ -10,7 +10,8 @@
 
 <h4 align="center">- About Me - </h4>
 
-- **☄️  Passionate developer focused on building clean and efficient code. Always learning and sharing. Open for collabs!**
+- **☄️ Passionate developer focused on building clean and efficient code. Always learning and sharing.**
+- **📧 I am opened for collabs! You can contact me at `salvatorerusso.dev@gmail.com`.**
   
 ---
 
