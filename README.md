@@ -10,7 +10,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-- **☄️  Passionate developer focused on building clean and efficient code. Always learning and sharing.**
+- **☄️  Passionate developer focused on building clean and efficient code. Always learning and sharing. Open for collabs!**
   
 ---
 
